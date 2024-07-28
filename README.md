@@ -8,7 +8,7 @@ This is a sample tool that allows you upload your notes to a server and AI will 
 
 Note2Exam 是一个帮助你通过上传笔记生成考试题目的工具，利用AI技术生成基于笔记内容的题目，帮助你更高效地复习笔记。
 
-
+![image-20240728222623583](https://memosfile.qiangtu.com/picgo/assets/2024/07/28202407_28222623.png)
 
 ## 项目状态
 
